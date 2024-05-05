@@ -1,7 +1,7 @@
 import React from 'react'
 import {Image,StyleSheet,Text,View} from 'react-native';
 
-import Swiper from 'react-native-swiper';
+import Swiper from 'react-native-swiper/src';
 
 const styles = StyleSheet.create({
     wrapper:{},
